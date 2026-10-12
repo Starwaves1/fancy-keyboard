@@ -1,0 +1,8 @@
+letters/
+cache-backup/
+*.plist
+__pycache__/
+tools/*
+!tools/*.swift
+state
+reselect
